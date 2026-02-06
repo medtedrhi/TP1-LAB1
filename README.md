@@ -1,5 +1,4 @@
+Etape 1:
+<img width="1437" height="508" alt="image" src="https://github.com/user-attachments/assets/cf0e983f-0354-455f-acd3-93bb6ca4e98f" />
 
 
-![download (5)](https://github.com/user-attachments/assets/1794fbd5-e6f9-4f27-bee0-a4626757df7a)
-
-hello world
